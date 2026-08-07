@@ -1,0 +1,29 @@
+exclude:
+  - "??.webp"
+  - "przesuwne-*.webp"
+  - "uchylne-*.webp"
+  - "furtki-*.webp"
+  - "inne-02.webp"
+  - "inne-06.webp"
+  - "inne-15.webp"
+  - "inne-17.webp"
+  - "inne-20.webp"
+  - README.txt
+  - balkon.jpg
+  - balustrada.jpg
+  - brama.jpg
+  - brama2.jpg
+  - bramanapedzana.jpg
+  - bus.jpg
+  - bus2.jpg
+  - dom.png
+  - download
+  - hero.png
+  - plot.jpg
+  - wejscie.jpg
+
+keep_files:
+  - CNAME
+
+url: "https://werkabramy.pl"
+baseurl: ""
